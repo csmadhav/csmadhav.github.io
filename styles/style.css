@@ -255,4 +255,5 @@ body {
   margin-top: 20px;
   margin-bottom: 33px;
   border-radius: 7px;
+  min-height: 350px;
 }
