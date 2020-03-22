@@ -48,8 +48,8 @@ body {
   border: 1px #007bb5 solid;
 }
 .fa-github {
-    color: black;
-    border: 1px black solid;
+  color: black;
+  border: 1px black solid;
 }
 .fa-medium {
   color: black;
@@ -249,10 +249,10 @@ body {
   }
 }
 .media {
-    display: block;
-    margin: auto;
-    border: 5px #a09f9f solid;
-    margin-top: 20px;
-    margin-bottom: 33px;
-    border-radius: 7px;
+  display: block;
+  margin: auto;
+  border: 5px #a09f9f solid;
+  margin-top: 20px;
+  margin-bottom: 33px;
+  border-radius: 7px;
 }
